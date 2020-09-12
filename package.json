@@ -9,7 +9,7 @@
     "author": "shishcat.dp@gmail.com",
     "license": "WTFPL",
     "dependencies": {
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.1",
         "telegraf": "^3.38.0",
         "telegraf-ratelimit": "^2.0.0"
     }
